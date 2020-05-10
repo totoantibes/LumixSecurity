@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LumixSecurity", "LumixSecurity.pyproj", "{EA2037F5-848C-4038-92CA-4E37594A0AC7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LumixSecurity1", "LumixSecurity1.pyproj", "{87E2142A-C01D-441B-97AD-5589415A360E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2037F5-848C-4038-92CA-4E37594A0AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2037F5-848C-4038-92CA-4E37594A0AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E2142A-C01D-441B-97AD-5589415A360E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E2142A-C01D-441B-97AD-5589415A360E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FABDE684-C11E-4CF2-9436-BE6F03D0FA4F}
+	EndGlobalSection
+EndGlobal
