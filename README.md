@@ -1,4 +1,4 @@
-#Lumix Security
+# Lumix Security
 Turn your wifi enabled Lumix Camera into a security camera. This small script is an improvement(?) of a script shared in http://www.personal-view.com/talks/discussion/6703/control-your-gh3-from-a-web-browser-now-with-video-/p1 by http://www.personal-view.com/talks/profile/36673/cloudnein
 Indeed 
 * Some exception handling especially around the connection to the camera.
